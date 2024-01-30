@@ -1,0 +1,23 @@
+/*
+--woodworking-50: #fff6ed;
+--woodworking-100: #ffead4;
+--woodworking-200: #ffd1a9;
+--woodworking-300: #ffb072;
+--woodworking-400: #fe7d2d;
+--woodworking-500: #fd6212;
+--woodworking-600: #ee4708;
+--woodworking-700: #c53309;
+--woodworking-800: #9c2a10;
+--woodworking-900: #7e2510;
+--woodworking-950: #440f06; 
+*/
+
+
+
+:root {
+    --md-accent-fg-color:        #fe7d2d;
+    --md-accent-fg-color--light: #ffd1a9;
+    --md-accent-fg-color--dark:  #9c2a10;
+  }
+
+  
